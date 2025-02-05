@@ -1,7 +1,0 @@
-keras
-numpy
-pandas
-Keras-Applications
-Keras-Preprocessing
-tqdm
-python-bidi
